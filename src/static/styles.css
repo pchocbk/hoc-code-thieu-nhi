@@ -58,7 +58,7 @@ section h3 {
 }
 
 .activity-card {
-  margin-bottom: 15px;
+  margin-bottom: 17px;
   padding: 15px;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -167,7 +167,7 @@ button:hover {
 
 footer {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 31px;
   padding: 20px;
   color: #666;
 }
