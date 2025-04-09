@@ -90,6 +90,19 @@ section h3 {
   line-height: 1.4;
 }
 
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: circle;
+  color: #444;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.participants-list li {
+  margin-bottom: 5px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
